@@ -1,3 +1,10 @@
+My First Project with React!
+
+A To Do List App with fully fledged CRUD (Create Read Update Delete) Functionality
+
+Designed using Material UI and hosted on Firebase
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
